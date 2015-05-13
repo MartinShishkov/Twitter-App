@@ -1,0 +1,16 @@
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\Twitter.Data.dll
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\Twitter.Data.pdb
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\Twitter.Models.dll
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\EntityFramework.dll
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\Twitter.Models.pdb
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\EntityFramework.xml
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\obj\Debug\Twitter.Data.csprojResolveAssemblyReference.cache
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\obj\Debug\Twitter.Data.dll
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\obj\Debug\Twitter.Data.pdb
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\Twitter.Data.dll.config
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Codebreaker\Documents\Twitter-App\Twitter.Data\bin\Debug\EntityFramework.SqlServer.xml

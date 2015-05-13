@@ -1,0 +1,15 @@
+﻿@model Twitter.Web.Models.Binding.TweetBindingModel
+@{
+    ViewBag.Title = "New";
+}
+
+<h2>Post New Tweet</h2>
+
+@using (Html.BeginForm("Post", "Tweets", FormMethod.Post))
+{
+    @Html.LabelFor(x => x.Content)
+    @Html.EditorFor(x => x.Content)
+
+    <input type="submit" value="Tweet!" />
+}
+
