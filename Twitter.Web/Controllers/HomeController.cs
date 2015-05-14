@@ -15,7 +15,7 @@ namespace Twitter.Web.Controllers
 
         public ActionResult Index()
         {
-            var tweets = this.Data.Tweets.All();
+            var tweets = this.Data.Tweets.All().ToList();
 
             return View(tweets);
         }
